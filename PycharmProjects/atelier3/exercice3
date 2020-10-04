@@ -1,0 +1,16 @@
+""" @auteur : johanna
+date : 10/09/2020
+description : atelier3 exercice 3
+version 1
+"""
+
+def separer(L):
+    taille = len(L)
+    LSPE =[]
+    for i in range (0,taille):
+        LSPE.append(0)
+    for i in range(0,taille):
+        if L[i]>0 :
+            LSPE.append(L[])
+        if L[i]<0 :
+            LSPE.append(L[i])
